@@ -3,4 +3,4 @@
 	url = https://github.com/metisx-dev/libspdm
 [submodule "SPDM-Responder-Validator"]
 	path = SPDM-Responder-Validator
-	url = https://github.com/metisx-dev/SPDM-Responder-Validator
+	url = https://github.com/xcena-dev/SPDM-Responder-Validator
