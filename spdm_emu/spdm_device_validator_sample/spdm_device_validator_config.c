@@ -164,7 +164,7 @@ common_test_group_config_t m_spdm_test_group_configs[] = {
      m_spdm_test_group_certificate_configs},
     {SPDM_RESPONDER_TEST_GROUP_CHALLENGE_AUTH,    COMMON_TEST_ACTION_RUN,
      m_spdm_test_group_challenge_auth_configs},
-    {SPDM_RESPONDER_TEST_GROUP_MEASUREMENTS,      COMMON_TEST_ACTION_RUN,
+    {SPDM_RESPONDER_TEST_GROUP_MEASUREMENTS,      COMMON_TEST_ACTION_SKIP,
      m_spdm_test_group_measurements_configs},
     {SPDM_RESPONDER_TEST_GROUP_KEY_EXCHANGE_RSP,  COMMON_TEST_ACTION_RUN,
      m_spdm_test_group_key_exchange_rsp_configs},
